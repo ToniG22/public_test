@@ -3,7 +3,7 @@
 
 int main(int argc, char const *argv[])
 {   
-    //Coment
+    //Coments
     printf("Hello, World!\n");
     return 0;
 }
